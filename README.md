@@ -1,7 +1,5 @@
 # Fullstack Professional Notes - Index
 
-**Total notes generated: 878**
-
 | Category              | Notes | Status   |
 | --------------------- | ----- | -------- |
 | HTML                  | 50    | Complete |
