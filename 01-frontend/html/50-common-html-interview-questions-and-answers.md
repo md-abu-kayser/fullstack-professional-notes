@@ -2,8 +2,4 @@
 
 Frequent interview topics include: the difference between id and class, why semantic HTML matters for SEO and accessibility, block vs inline elements, how the doctype affects rendering mode, the difference between localStorage and cookies, and what makes an image accessible beyond just adding an alt attribute.
 
-```html
-<!-- Be ready to explain "why", not just "what" - e.g. why semantic HTML helps SEO -->
-```
-
 **Key takeaway:** Interviewers often care more about the reasoning behind a choice than the syntax itself.
